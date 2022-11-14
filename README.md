@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Slides for Obsidian</h1>
+<h1 align="center">Advanced Slides___ for Obsidian</h1>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/MSzturc/obsidian-advanced-slides/main/imgs/demo.gif">

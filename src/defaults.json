@@ -2,7 +2,7 @@
 	"theme": "black",
 	"highlightTheme": "zenburn",
 	"template": "template/reveal.html",
-	"separator": "\r?\n---\r?\n",
+	"separator": "\r?\n___\n",
 	"verticalSeparator": "\r?\n--\r?\n",
 	"notesSeparator": "note:",
 	"enableLinks": false,
